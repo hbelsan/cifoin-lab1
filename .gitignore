@@ -11,3 +11,27 @@ wheels/
 *.npz
 .cache/
 WAVEGUIDES_SOLUTIONS.ipynb
+
+# LaTeX source and compilation artifacts
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.lof
+*.lot
+*.xdv
+*.dvi
+*.ps
+document.pdf
+LabBook_10.pptx
